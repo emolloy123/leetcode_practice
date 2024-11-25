@@ -1,1 +1,4 @@
-# leetcode_practice
+# Leetcode practice
+
+- Repository where I practice leetcode problems
+- 
